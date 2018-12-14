@@ -1,6 +1,6 @@
 import app from 'firebase/app';
 
-config = {
+const config = {
     apiKey: "",
     authDomain: "",
     databaseURL: "",
